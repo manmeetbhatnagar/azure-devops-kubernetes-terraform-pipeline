@@ -1,4 +1,5 @@
 # Currency Exchange Micro Service - H2
+# TEST2
 
 Run com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationH2 as a Java Application.
 
@@ -16,7 +17,7 @@ Run com.in28minutes.microservices.currencyconversionservice.CurrencyConversionSe
 }
 ```
 
-## H2 Console
+## H22 Console
 
 - http://localhost:8000/h2-console
 - Use `jdbc:h2:mem:testdb` as JDBC URL
