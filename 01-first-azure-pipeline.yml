@@ -26,6 +26,6 @@ jobs:
     
   - script: |
       echo Job2-Multiline1
-      echo Job2-Multiline2
+      echo Job2-Multiline3
     displayName: 'Run a multi-line script'
             
